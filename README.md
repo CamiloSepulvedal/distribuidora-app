@@ -35,6 +35,7 @@ Permite a los clientes calcular el costo de despacho de sus compras y al adminis
 
 ---
 
+<img width="490" height="980" alt="1" src="https://github.com/user-attachments/assets/c5a54228-d9fe-42f5-9f0e-4dd043953830" />
 
 ## 📂 Instalación
 1. Clonar el repositorio:
