@@ -35,10 +35,6 @@ Permite a los clientes calcular el costo de despacho de sus compras y al adminis
 
 ---
 
-## 📸 Capturas de pantalla
-*(aquí puedes añadir imágenes de tu emulador con la app en ejecución)*
-
----
 
 ## 📂 Instalación
 1. Clonar el repositorio:
