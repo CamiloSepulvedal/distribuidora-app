@@ -34,8 +34,21 @@ Permite a los clientes calcular el costo de despacho de sus compras y al adminis
 - Administrador: como administrador quiero almacenar la posición GPS de los clientes en Firebase.
 
 ---
+Capturas de Pantalla
+Login con usuario o por google
+<img width="490" height="980" alt="1" src="https://github.com/user-attachments/assets/64b8942e-a4d7-45ac-ac11-745995d1495f" />
 
-<img width="490" height="980" alt="1" src="https://github.com/user-attachments/assets/c5a54228-d9fe-42f5-9f0e-4dd043953830" />
+<img width="509" height="988" alt="2" src="https://github.com/user-attachments/assets/68a27faf-63cb-4fa8-8956-c2c4e15b72bf" />
+
+Al momento de logear te va a pedir la ubicacion GPS
+<img width="517" height="1004" alt="3" src="https://github.com/user-attachments/assets/a6642847-6c63-4bf4-ba5f-1284a3ac9903" />
+
+Despues se te dara acceso a la aplicacion con tu ubicacion
+
+<img width="516" height="1001" alt="4" src="https://github.com/user-attachments/assets/1baa1609-efa7-4836-876e-d34c91f4bd33" />
+Simulacion de aplicacion
+<img width="522" height="1000" alt="5" src="https://github.com/user-attachments/assets/63d5884c-a231-4087-bdbb-4abbcda2b4af" />
+
 
 ## 📂 Instalación
 1. Clonar el repositorio:
